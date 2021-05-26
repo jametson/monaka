@@ -4,3 +4,8 @@
 .settings
 target/
 /bin/
+
+# IDEA IntelliJ files
+.idea/
+*.iml
+
